@@ -1,8 +1,8 @@
 # Messages API - Backend Assessment (FastAPI + SQLite)
 
-**Author:** Nestor Ortiz
+**Autor:** Nestor Ortiz
 
-Proyecto de ejemplo para la prueba técnica de backend. Implementa una API que recibe, procesa y almacena mensajes de chat.
+Este proyecto corresponde a una prueba tecnica para nequi. Implementa una API que recibe, procesa y almacena mensajes de chat.
 
 ## Tecnologías
 - Python 3.10+
